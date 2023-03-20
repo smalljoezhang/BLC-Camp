@@ -1,1 +1,1 @@
-# BLC-Camp
+# BLC-Camp Training

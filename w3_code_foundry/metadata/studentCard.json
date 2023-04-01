@@ -1,0 +1,15 @@
+"title" : "training camp card",
+"desciption" : "a good course for leaning blockchain."
+"image": "ipfs://Qmd8QGp9psMWoTNBWK7KKmnMbN7dkTFPhmb9U8bxBETkq2",
+"attributes": [
+    {
+        "trait_type": "student no",
+        "value": "001221"
+    }
+    {
+        "trait_type" :"alais",
+        "value": "xiaoz"
+    }
+],
+"version":"1"
+
